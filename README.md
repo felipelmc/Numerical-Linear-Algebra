@@ -12,4 +12,4 @@ Scilab implementations of numerical methods for solving problems related to Line
 
 **Practice 5:** QR Decomposition (Gram-Schdmit, Householder and for Eigenvalues)
 
-Each Practice contains a report describing the implementations and testing processes of each method under certain circumnstances, evaluating their capabilities and limitations.
+Each Practice contains a report (pt-BR) describing the implementations and testing processes of each method under certain circumnstances, evaluating their capabilities and limitations.
