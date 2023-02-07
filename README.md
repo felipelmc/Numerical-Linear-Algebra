@@ -8,7 +8,7 @@ Scilab implementations of numerical methods for solving problems related to Line
 
 **Practice 3:** Power Method & Displaced Power Method with Inverse Iteration
 
-**Practice 4:** Least Squared Method
+**Practice 4:** Least Squares Method
 
 **Practice 5:** QR Decomposition (Gram-Schdmit, Householder and for Eigenvalues)
 
